@@ -45,3 +45,6 @@ bundle exec jekyll serve
 {% endhighlight %}
 
 Also, the link (again a Github page) [https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/] contains a cheat sheet for code highlighting in all major languages and worth to be bookmarked. 
+
+[https://ndench.github.io/jekyll/setup-jekyll-on-github-pages]: https://ndench.github.io/jekyll/setup-jekyll-on-github-pages
+[https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/]: https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/
