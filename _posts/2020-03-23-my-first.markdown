@@ -1,0 +1,47 @@
+---
+title: How did I setup this Github page
+layout: post
+categories: setup how-to
+---
+
+To setup this Github page, I referred the link https://ndench.github.io/jekyll/setup-jekyll-on-github-pages one of the top results in DuckDuckGo. I did follow all the 
+steps mentioned in that page meticulously. I did however hit a few road blocks. 
+
+After cloning when I ran the below command
+
+{% highlight bash %}
+$ bundle exec jekyll serve
+{% endhighlight %}
+
+I got the below output and even after repeatedly giving admin password it didn't go away. 
+
+
+ {% highlight bash %}
+ Your user account isn't allowed to install to the system RubyGems.
+  You can cancel this installation and run:
+
+      bundle install --path vendor/bundle
+
+  to install the gems into ./vendor/bundle/, or you can enter your password
+  and install the bundled gems to RubyGems using sudo.
+
+  Password: 
+ {% endhighlight %}
+
+ So as suggested by the above prompt I ran the below command.
+
+{% highlight bash %}
+bundle config set path 'vendor/bundle'
+{% endhighlight %}
+
+I also did another mistake, I had an outer Nikhil0487.github.io with a nested Nikhil0487.github.io folder. This also caused some confusion. So, make sure that you don't have same nested folders. This happens when you create a 'Nikhil0487.github.io' folder and then clone your pages repo inside it.
+
+So, finally after sorting all the things out, its mandatory you setup _config.yml with relevant details as mentioned in the above linked page.
+
+Finally, build and check your site locally before you push your changes to remote.
+
+{% highlight bash %}
+bundle exec jekyll serve
+{% endhighlight %}
+
+Also, the link (again a Github page) https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/ contains a cheat sheet code highlighting in all major languages and can be bookmarked. 
