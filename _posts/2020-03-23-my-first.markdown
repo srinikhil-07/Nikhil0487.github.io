@@ -1,5 +1,5 @@
 ---
-title: How did I setup this Github page
+title: My experience setting up this Github page
 layout: post
 categories: setup how-to
 ---
