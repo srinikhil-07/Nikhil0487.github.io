@@ -10,7 +10,7 @@ steps mentioned in that page meticulously. I did however hit a few road blocks.
 After cloning, I ran the below command
 
 {% highlight bash %}
-$ bundle exec jekyll serve
+ $ gem install jekyll bundler
 {% endhighlight %}
 
 I got the below output and even after repeatedly giving the sudo password I was stuck. 
@@ -36,15 +36,15 @@ bundle config set path 'vendor/bundle'
 
 I also did another mistake, I had an outer Nikhil0487.github.io folder with a nested Nikhil0487.github.io folder. This also caused me some confusion. So, make sure that you don't have same nested folders. This happens when you create a 'Nikhil0487.github.io' folder and then clone your pages repo inside it.
 
-So, finally after sorting out the above mentioned things, its mandatory you setup _config.yml with relevant details as mentioned in the above linked page.
+So, finally after sorting out the above confusions, I didn't mind setting up _config.yml with relevant details. I realized that this file needs considerable amount of my time to configure things. 
 
-Finally, build and check your site locally before you push your changes to remote.
+Finally, after a few initial hasty commits I startd to build and check the pages locally before pushing my changes to my remote. The below command serves the page locally in port 4000.
 
 {% highlight bash %}
 bundle exec jekyll serve
 {% endhighlight %}
 
-Also, the link (again a Github page) [https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/] contains a cheat sheet for code highlighting in all major languages and worth to be bookmarked. 
+Also, I had to refer the link (again a Github page) [https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/] to highlight the bash (zsh actually) commands above. 
 
 [https://ndench.github.io/jekyll/setup-jekyll-on-github-pages]: https://ndench.github.io/jekyll/setup-jekyll-on-github-pages
 [https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/]: https://haisum.github.io/2014/11/07/jekyll-pygments-supported-highlighters/
