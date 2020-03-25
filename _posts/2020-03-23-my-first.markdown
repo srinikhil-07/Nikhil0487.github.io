@@ -1,5 +1,5 @@
 ---
-title: My experience setting up this Github page
+title: Experience Setting Up This Github Page
 layout: post
 categories: setup how-to
 ---
