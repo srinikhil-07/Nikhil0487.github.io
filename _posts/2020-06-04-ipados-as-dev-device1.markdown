@@ -34,7 +34,7 @@ What do I use mostly for developing macOS/iOS applications in MacBook?
 Addressing each of the above points w.r.t iPadOS below and also assuming that I use iPad with keyboard and mouse.
 
 1. I can open coding projects in Files app and use ported Xcode/VSCode apps,
-2. Considering terminal is ruled out like Tim Cook said. Are there any replacements? Terminal will access to /Users/ directories alone would be great! I wouldn’t mind this change.
+2. Considering terminal is ruled out like Tim Cook said. Are there any replacements? Terminal with access to directories in /Users/ alone would be good.
 3. Open Console app in iPad,
 4. Use iPad’s Files application. 
 5. Use iPad’s Files application,
@@ -47,14 +47,14 @@ Some additional points:
 1. Extend current Files app in iPadOS to have more functionalies like Finder in Mac,
 2. iPadOS can have Terminal app and Files app with access to /Users/ directory alone considering iPadOS will be multi-user. (i.e.,) all directories under ~/)
 
-So yes with 
+So yes with, 
 1. More computing power in iPadOS,
 2. Keyboard/Mouse usage, 
-3. Free access of terminal/Files app of iPadOS to /Users/ directory, and 
+3. Free access for Terminal/Files app of iPadOS to /Users/ directory, and 
 4. Obviously porting of developer tools to iPadOS, would definitley make iPadOS to start behaving like a primary developer device.
 
-Rumuors are already spreading on Twitter about Xcode port to iPadOS. Let's wait and watch what's in store for iPadOS in WWDC 2020.
+Rumours are already spreading on Twitter about Xcode port to iPadOS. Let's wait and watch what's in store for iPadOS in WWDC 2020.
 
-Will address issues with Finder/Terminal opening upto /Users/ directory alone in another post.
+Will address issues with opening Finder/Terminal opening to directories /Users/ alone in another post.
 
 [video]: https://www.youtube.com/watch?v=eUAPHgiEniQ&t=2134s
