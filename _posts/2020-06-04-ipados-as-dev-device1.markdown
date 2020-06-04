@@ -1,5 +1,5 @@
 ---
-title: Can iPadOS Replace macOS As A Primary Development Device
+title: Can iPadOS Be Made To Equal/Replace macOS
 layout: post
 categories: apple devices
 ---
@@ -9,12 +9,12 @@ Recently I saw an old [video] of Tim Cooks from 2012.
 His views on iPad vs Mac were interesting and still relevant today especially after introducing 
 iPadOS last year. Some if his main points were:
 
-- [ ] No merging of tab and laptop,
-- [ ] MacBooks/macOS are not for wide spread adoption but will be only for best,
-- [ ] Tabs will surpass laptop in usage,
-- [ ] Tabs have their own purpose and problem to solve,
-- [ ] Tabs imply that they don’t carry laptop’s legacy baggage,
-- [ ] He specifically told no console.
+- No merging of tab and laptop,
+- MacBooks/macOS are not for wide spread adoption but will be only for best,
+- Tabs will surpass laptop in usage,
+- Tabs have their own purpose and problem to solve,
+- Tabs imply that they don’t carry laptop’s legacy baggage,
+- He specifically told no console.
 
 So with above points in mind what would I need as a developer for an iPad(OS) to be?
 
