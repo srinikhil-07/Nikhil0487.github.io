@@ -9,14 +9,15 @@ Recently I saw an old [video] of Tim Cooks from 2012.
 His views on iPad vs Mac were interesting and still relevant today especially after introducing 
 iPadOS last year. Some if his main points were:
 
-- No merging of tab and laptop,
-- MacBooks/macOS are not for wide spread adoption but will be only for best,
-- Tabs will surpass laptop in usage,
+- No unification of iPad and Mac,
+- MacBooks/macOS are not for wide spread adoption but will remain niche,
+- Tabs will surpass laptop in usage in future,
 - Tabs have their own purpose and problem to solve,
 - Tabs imply that they don’t carry laptop’s legacy baggage,
-- He specifically told no console.
+- He specifically told no console in tab.
 
 So with above points in mind what would I need as a developer for an iPad(OS) to be?
+To answer this question, I have asked myself the below question.
 
 What do I use mostly for developing macOS/iOS applications in MacBook?
 1. IDEs to write code. I use mostly Xcode and VSCode, 
@@ -39,12 +40,12 @@ Addressing each of the above points w.r.t iPadOS below and also assuming that I 
 5. Use iPad’s Files application,
 6. Continue with the browser in iPad,
 7. Continue with iPad’s browser
-8. Xcode’s and VSCode git plugin as replacement. Although some quick functionalites will be missed.
-9. Files app in iPadOS
+8. Xcode’s and VSCode git plugin as replacement. Although some quick functionalites will be missed,
+9. Files app in iPadOS.
 
 Some additional points:
 1. Extend current Files app in iPadOS to have more functionalies like Finder in Mac,
-2. iPadOS can have Terminal app and Files app with access to /Users/ directory alone considering iPadOS will be multi-user. (i.e.,) all directtories under ~/)
+2. iPadOS can have Terminal app and Files app with access to /Users/ directory alone considering iPadOS will be multi-user. (i.e.,) all directories under ~/)
 
 So yes with 
 1. More computing power in iPadOS,
@@ -52,7 +53,7 @@ So yes with
 3. Free access of terminal/Files app of iPadOS to /Users/ directory, and 
 4. Obviously porting of developer tools to iPadOS, would definitley make iPadOS to start behaving like a primary developer device.
 
-Rumuors are already spreading on Twitter about Xcode port to iPadOS. Let's wait and watch whats in store for iPadOS in WWDC 2020.
+Rumuors are already spreading on Twitter about Xcode port to iPadOS. Let's wait and watch what's in store for iPadOS in WWDC 2020.
 
 Will address issues with Finder/Terminal opening upto /Users/ directory alone in another post.
 
