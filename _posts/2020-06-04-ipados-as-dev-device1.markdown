@@ -7,7 +7,7 @@ categories: apple devices
 Recently I saw an old [video] of Tim Cooks from 2012. 
 
 His views on iPad vs Mac were interesting and still relevant today especially after introducing 
-iPadOS last year. Some if his main points were:
+iPadOS last year. Some of his main points were:
 
 - No unification of iPad and Mac,
 - MacBooks/macOS are not for wide spread adoption but will remain niche,
@@ -55,6 +55,6 @@ So yes with,
 
 Rumours are already spreading on Twitter about Xcode port to iPadOS. Let's wait and watch what's in store for iPadOS in WWDC 2020.
 
-Will address issues with opening Finder/Terminal opening to directories /Users/ alone in another post.
+Will address issues about opening up Finder/Terminal to directories /Users/ alone in another post.
 
 [video]: https://www.youtube.com/watch?v=eUAPHgiEniQ&t=2134s
