@@ -19,6 +19,8 @@ sourcekit-lsp is packed in Xcode from 11.4 and upwards only,
 
 Will write another article on setting up Swift with VSCode on Linux. 
 
+You can find me on [Twitter].
+
 Notes:
 1. Ray Wenderlich has an excellent [introduction] of how Language-Server-Protocol works in their
 article on Swift in Linux,
@@ -27,3 +29,4 @@ article on Swift in Linux,
 [Matt's]:  https://nshipster.com/vscode/
 [introduction]: https://www.raywenderlich.com/8325890-a-complete-guide-to-swift-development-on-linux
 [here]: https://github.com/apple/sourcekit-lsp
+[Twitter]: https://twitter.com/nikhil38036647

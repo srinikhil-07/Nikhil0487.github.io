@@ -57,4 +57,7 @@ Rumours are already spreading on Twitter about Xcode port to iPadOS. Let's wait 
 
 Will address issues about opening up Finder/Terminal to directories /Users/ alone in another post.
 
+You can find me on [Twitter].
+
 [video]: https://www.youtube.com/watch?v=eUAPHgiEniQ&t=2134s
+[Twitter]: https://twitter.com/nikhil38036647

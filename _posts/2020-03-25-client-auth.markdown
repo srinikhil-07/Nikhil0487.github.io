@@ -27,7 +27,8 @@ Turns out, my network request was getting an authentication challenge in TLS lay
 
 So, NSURLCredentialStorage should be working only for Basic authentication as the above linked SO thread says. And this leaves us with only delegates as the means for handling complex authentication mechanism. 
 
-
+You can find me on [Twitter].
 
 [this]: https://stackoverflow.com/questions/4164846/nsurlcredentialstorage-and-client-certificate-authentication
 [Apple]: https://developer.apple.com/documentation/network/debugging_https_problems_with_cfnetwork_diagnostic_logging
+[Twitter]: https://twitter.com/nikhil38036647

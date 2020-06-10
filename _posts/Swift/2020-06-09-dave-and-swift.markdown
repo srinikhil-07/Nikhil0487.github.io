@@ -15,7 +15,9 @@ Setting up Swift on VSCode and fixing SourceKit-LSP [issues] led me to an intere
 - Suprisingly after reading Dave's code in the [post], I realized that I just gleaned a little bit of Swift Standard Library till now,
 - So I decided to get familiarized with BiDirectionalCollection and a quick Duck Duck Going about it led me to this [Apple's] docs,
 - At which point I realized I am not comfortable enough with Swift Standard Library overall and not just BiDirectionalCollection, so I went up two pages reaching Swift's official top level [page] about Swift Standard Library,
-- This [page] led me to an excellent [playground] on Swift Standard Library basics which I am doing right now and highly recommend to my fellow Swift buddies.
+- This [page] led me to an excellent [playground] on Swift Standard Library basics which I am doing right now and highly recommend to my fellow Swift buddies. 
+
+You can find me on [Twitter].
 
 [issues]: https://nikhil0487.github.io/swift-5/2020/06/07/swift-in-vscode.html
 [issue]: https://github.com/emacs-lsp/lsp-sourcekit/issues/3
@@ -28,4 +30,5 @@ Setting up Swift on VSCode and fixing SourceKit-LSP [issues] led me to an intere
 [Apple's]: https://developer.apple.com/documentation/swift/swift_standard_library
 [page]: https://developer.apple.com/documentation/swift/swift_standard_library
 [playground]: https://developer.apple.com/sample-code/swift/downloads/standard-library.zip
+[Twitter]: https://twitter.com/nikhil38036647
 
