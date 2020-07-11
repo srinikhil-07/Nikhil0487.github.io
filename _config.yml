@@ -29,7 +29,7 @@ github_username:  Nikhil0487
 twitter_username: Nikhil0487
 
 # Build settings
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
 
