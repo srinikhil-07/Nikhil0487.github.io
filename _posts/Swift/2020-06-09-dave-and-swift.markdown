@@ -1,5 +1,5 @@
 ---
-title: Dave Abrahams And Swift Standard Library
+title: Foray Into Swift Standard Library
 layout: post
 categories: swift-5
 ---
