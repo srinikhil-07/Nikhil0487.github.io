@@ -24,8 +24,8 @@ Translating Landmark app components to News headlines app components, I have for
 
 1. Landmark Lists: Display list of your country's top headlines returned by the API,
 2. Landmark Categories: Display categories of NewsAPI top headline (there are about 6 of them),
-3. Landmark Featured: Feature top headlines randomised (and after some usage in phone intelligense basde on apps usage) to pick most relevant News item,
-4. Tab view to switch between points 1 and 2,
+3. Landmark Featured: Feature top headlines randomised (and after some usage form an algorithm based on apps usage) to pick most relevant News item,
+4. Tab view: to switch between points 1 and 2,
 5. User profile: Editable view with relevant fields (e.g., country etc.),
 6. Animation: Start forming animations based on users news reading patterns.
 
