@@ -4,7 +4,7 @@ layout: post
 categories: swiftui
 ---
 
-So, I started learning SwiftUI from the official SwiftUI essential tutorial. SwiftUI is interesting and
+So, I started learning SwiftUI from the [official] SwiftUI essential tutorial. SwiftUI is interesting and
 answering the following questions effectively summarises the tutorial.
 
 1. What are stacks? What are the different types of Stacks?
@@ -15,11 +15,11 @@ And how do they interact with each other?
 And the tutorial teaches various UI elements in an interesting way and it's all very good until
 you realize that you are a passive learner and not an active one. So, this led me to an interesting idea to actually try apply the principles introduced in a simple way.
 
-For my first ever iOS app using UIKit, I've used NewsAPI and why not use the same here?
+For my [first] ever iOS app using UIKit, I've used [NewsAPI] and why not use the same here?
 
 So after some thinking, I came with the below simple idea mapping various tutorial parts to NewsAPI.
 Translating Landmark app components to News headlines app components, I have formed the below mapping.
-Now NewsAPI has a lot of components, I am gonna focus only on the top-headlines API.
+Now NewsAPI has a lot of components, I am gonna focus only on the [top-headlines] API endpoint.
 
 
 1. Landmark Lists: Display list of your country's top headlines returned by the API,
