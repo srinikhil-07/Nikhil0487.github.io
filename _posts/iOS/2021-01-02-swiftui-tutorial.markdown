@@ -18,9 +18,9 @@ you realize that you are a passive learner and not an active one. So, this led m
 For my [first] ever iOS app using UIKit, I've used [NewsAPI] and why not use the same here?
 
 So after some thinking, I came with the below simple idea mapping various tutorial parts to NewsAPI.
-Translating Landmark app components to News headlines app components, I have formed the below mapping.
 Now NewsAPI has a lot of components, I am gonna focus only on the [top-headlines] API endpoint.
 
+Translating Landmark app components to News headlines app components, I have formed the below mapping.
 
 1. Landmark Lists: Display list of your country's top headlines returned by the API,
 2. Landmark Categories: Display categories of NewsAPI top headline (there are about 6 of them),
@@ -28,6 +28,11 @@ Now NewsAPI has a lot of components, I am gonna focus only on the [top-headlines
 4. Tab view to switch between points 1 and 2,
 5. User profile: Editable view with relevant fields (e.g., country etc.),
 6. Animation: Start forming animations based on users news reading patterns.
+
+Note that there is one additional challenge here which is not in the tutorial: 
+Fetching data with network calls and if needed cache some data in app's persistent store(SQLite is my current favorite).
+
+Will write about specifics more once I implement the above.
 
 Further steps:
 1. Integrating with UIKit,
