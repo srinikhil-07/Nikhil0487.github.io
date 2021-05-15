@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am interested in software engineering and I spend my day time writing Swift and Objective-C(++). I am also interested in [Sanskrit].
+I am interested in software engineering and I spend my day time writing code. I also love reading and learning new human langugaes.
 
-I spend my free time learning Sanskrit and playing badminton.
-
-[Sanskrit]: https://en.wikipedia.org/wiki/Sanskrit
+I spend my free time reading.
